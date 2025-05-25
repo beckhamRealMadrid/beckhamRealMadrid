@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for https://github.com/beckhamRealMadrid -->
 
-<h1 align="center">👋 Hello, I'm Beckham — Tech-Oriented PM & Server Architect</h1>
+<h1 align="center">👋 Tech-Oriented PM & Server Architect connecting systems, teams, and outcomes.</h1>
 
 <p align="center">
 🧠 From building C++ MMO servers to designing scalable processes, I connect technology and people for better development outcomes.<br>
