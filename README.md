@@ -1,10 +1,14 @@
 <!-- GitHub Profile README for https://github.com/beckhamRealMadrid -->
 
-<h1 align="center">👋 Tech-Oriented PM & Server Architect connecting systems, teams, and outcomes.</h1>
+<h1 align="center">👋 Tech PM & Server Architect — Connecting systems, teams, and outcomes that scale</h1>
 
 <p align="center">
-🧠 From building C++ MMO servers to designing scalable processes, I connect technology and people for better development outcomes.<br>
-🚀 Passionate about performance, precision, and team synergy.
+🧠 From C++ MMO server architecture to DevOps pipelines — I connect code, teams, and outcomes.<br>
+🚀 Focused on performance, precision, and team synergy.
+</p>
+
+<p align="center">
+📌 Currently building scalable server systems & dev pipelines. Always open to collaboration!
 </p>
 
 <p align="center">
@@ -21,7 +25,8 @@
 - 🎮 Former MMO game server developer turned tech-focused PM  
 - 🧠 Specialized in architecture design, traffic bottleneck analysis, process automation, and collaboration tooling  
 - 👨‍💻 Expert in IOCP, multithreaded programming, server frameworks, and DB operation optimization  
-- ✍️ Not just a coder — I lead cross-functional teams to build clean architecture and sustainable workflows  
+- ✍️ Not just a coder — I lead cross-functional teams to build clean architecture and sustainable workflows
+- <img src="https://flagcdn.com/w40/kr.png" width="20" alt="South Korea Flag"> Based in South Korea | Global collaboration welcome
 
 ---
 
@@ -31,7 +36,7 @@
 |--------|-------------|
 | [⚙️ ServerFrameWork](https://github.com/beckhamRealMadrid/ServerFrameWork) | C++ IOCP-based multithreaded server framework for online games |
 | [🧵 ThreadTimer](https://github.com/beckhamRealMadrid/ThreadTimer) | High-performance IOCP-based multithreaded timer & task scheduler |
-| [🗃️ DBDispatcher](https://github.com/beckhamRealMadrid/DBDispatcher) | Serialized-per-user + parallel DB processing system |
+| [🗃️ DBDispatcher](https://github.com/beckhamRealMadrid/DBDispatcher) | Serialized-per-user + parallel DB processing system (built for MMO scalability) |
 | [🧪 GameServerThreadModels](https://github.com/beckhamRealMadrid/GameServerThreadModels) | Experimental comparison of game server thread models |
 
 ---
