@@ -87,4 +87,5 @@
 
 ## 🤝 Contact Me
 
-- 📫 **Email**: jjw6263@gmail.com  
+- 📫 **Email**: jjw6263@gmail.com
+- 🔗 LinkedIn: [진욱 정](https://www.linkedin.com/in/진욱-정-74b063247)  
