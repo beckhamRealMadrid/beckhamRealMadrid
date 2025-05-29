@@ -13,16 +13,16 @@
 
 <p align="center">
   <a href="https://github.com/beckhamRealMadrid?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-20%2B-blue?style=flat-square&logo=github" alt="Repos" />
+    <img src="https://img.shields.io/badge/Repos-20%2B-blue?style=plastic&logo=github" alt="Repos" />
   </a>&nbsp;
   <a href="https://github.com/beckhamRealMadrid/DBDispatcher/stargazers">
-    <img src="https://img.shields.io/github/stars/beckhamRealMadrid/DBDispatcher?style=flat-square&logo=github&color=brightgreen" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/beckhamRealMadrid/DBDispatcher?style=plastic&logo=github&color=brightgreen" alt="Stars" />
   </a>&nbsp;
   <a href="https://github.com/beckhamRealMadrid?tab=followers">
-    <img src="https://img.shields.io/github/followers/beckhamRealMadrid?label=Followers&style=flat-square&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/beckhamRealMadrid?label=Followers&style=plastic&logo=github" alt="Followers" />
   </a>&nbsp;
   <a href="https://github.com/beckhamRealMadrid">
-    <img src="https://komarev.com/ghpvc/?username=beckhamRealMadrid&style=flat-square&color=blue" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=beckhamRealMadrid&style=flat&color=blue" alt="Profile views" />
   </a>
 </p>
 
