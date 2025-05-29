@@ -40,47 +40,104 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| [⚙️ ServerFrameWork](https://github.com/beckhamRealMadrid/ServerFrameWork) | C++ IOCP-based multithreaded server framework for online games |
-| [🧵 ThreadTimer](https://github.com/beckhamRealMadrid/ThreadTimer) | High-performance IOCP-based multithreaded timer & task scheduler |
-| [🗃️ DBDispatcher](https://github.com/beckhamRealMadrid/DBDispatcher) | Serialized-per-user + parallel DB processing system (built for MMO scalability) |
-| [🧪 GameServerThreadModels](https://github.com/beckhamRealMadrid/GameServerThreadModels) | Experimental comparison of game server thread models |
+---
+
+### ⚙️ [ServerFrameWork](https://github.com/beckhamRealMadrid/ServerFrameWork)
+> High-performance C++ IOCP-based multithreaded server framework built for online game backends.
+
+- 🧵 Thread-safe architecture using IOCP
+- 📦 Modular design with extensibility
+- ⚡ Optimized for scalability under heavy player concurrency
+- 🛠 Production-grade message handling & connection pool
+![Stars](https://img.shields.io/github/stars/beckhamRealMadrid/ServerFrameWork?style=social)
+
+---
+
+### 🧵 [ThreadTimer](https://github.com/beckhamRealMadrid/ThreadTimer)
+> Precision multithreaded task scheduler designed for game server timing control.
+
+- ⏱ Accurate timer wheel + thread pool model
+- 🧩 Pluggable task system with low-latency dispatch
+- 🚀 Built for high-frequency scheduling environments
+![Stars](https://img.shields.io/github/stars/beckhamRealMadrid/ThreadTimer?style=social)
+
+---
+
+### 🗃️ [DBDispatcher](https://github.com/beckhamRealMadrid/DBDispatcher)
+> Serialized-per-user + parallelized DB processing system optimized for MMO server scale.
+
+- 🔄 Per-user queue serialization with dispatch loop
+- 📚 DBMsg pool reuse for performance
+- 🧵 Worker thread pool + SQL connection routing
+- 📈 Built-in dispatch safety and deadlock avoidance
+![Stars](https://img.shields.io/github/stars/beckhamRealMadrid/DBDispatcher?style=social)
+
+---
+
+### 🧪 [GameServerThreadModels](https://github.com/beckhamRealMadrid/GameServerThreadModels)
+> Experimental collection of thread models used in game servers.
+
+- 🧵 1-thread, N-thread, IOCP, hybrid models
+- 🧪 Benchmarked & profiled for real use cases
+- 🔍 Educational insight for server architects
+![Stars](https://img.shields.io/github/stars/beckhamRealMadrid/GameServerThreadModels?style=social)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <!-- Language / DB -->
+### ⚙️ Language / Backend
+<p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&logoColor=white" />
+  <img src="https://img.shields.io/badge/MFC-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+---
+
+### 🛢️ Database / Storage
+<p>
+  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&logoColor=white" />
-  <img src="https://img.shields.io/badge/MFC-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
-  <!-- Framework / Platform -->
+---
+
+### 🧱 Framework / Platform
+<p>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
-  <!-- DevOps / Infra / Logging -->
+---
+
+### 🚀 DevOps / Infra / Observability
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/New Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" />
+  <img src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" />
   <img src="https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge&logo=fluentd&logoColor=white" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white" />
+</p>
 
-  <!-- IDE / Editor -->
+---
+
+### 🧑‍💻 IDE / Editor
+<p>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+</p>
 
-  <!-- Collaboration / API Test -->
+---
+
+### 🤝 Collaboration / Issue Tracking / API Test
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" />
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
