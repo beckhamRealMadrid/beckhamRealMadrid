@@ -1,6 +1,7 @@
 <!-- GitHub Profile README for https://github.com/beckhamRealMadrid -->
 
-<h1 align="center">👋 Tech PM & Server Architect — Connecting systems, teams, and outcomes that scale</h1>
+<h1 align="center">Tech PM & Server Architect</h1>
+<p align="center"><i>Connecting systems, teams, and outcomes that scale</i></p>
 
 <p align="center">
 🧠 From C++ MMO server architecture to DevOps pipelines — I connect code, teams, and outcomes.<br>
