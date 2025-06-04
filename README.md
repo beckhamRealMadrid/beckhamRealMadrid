@@ -41,7 +41,6 @@
 - 📦 Modular design with extensibility
 - ⚡ Optimized for scalability under heavy player concurrency
 - 🛠 Production-grade message handling & connection pool
-![Stars](https://img.shields.io/github/stars/beckhamRealMadrid/ServerFrameWork?style=social)
 
 ---
 
@@ -51,7 +50,6 @@
 - ⏱ Accurate timer wheel + thread pool model
 - 🧩 Pluggable task system with low-latency dispatch
 - 🚀 Built for high-frequency scheduling environments
-![Stars](https://img.shields.io/github/stars/beckhamRealMadrid/ThreadTimer?style=social)
 
 ---
 
@@ -62,7 +60,6 @@
 - 📚 DBMsg pool reuse for performance
 - 🧵 Worker thread pool + SQL connection routing
 - 📈 Built-in dispatch safety and deadlock avoidance
-![Stars](https://img.shields.io/github/stars/beckhamRealMadrid/DBDispatcher?style=social)
 
 ---
 
@@ -72,7 +69,6 @@
 - 🧵 1-thread, N-thread, IOCP, hybrid models
 - 🧪 Benchmarked & profiled for real use cases
 - 🔍 Educational insight for server architects
-![Stars](https://img.shields.io/github/stars/beckhamRealMadrid/GameServerThreadModels?style=social)
 
 ---
 
