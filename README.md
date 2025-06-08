@@ -72,6 +72,16 @@
 
 ---
 
+### 🌐 [P2PModel](https://github.com/beckhamRealMadrid/P2PModel)
+> Hybrid P2P architecture with UDP Hole Punching, Relay fallback, and MMO server integration.
+
+- 🌍 Mesh-based peer connectivity with NAT traversal
+- 🛰 Relay path fallback for symmetric NAT/firewall cases
+- 🗃 MMO shard integration with scalable server layout
+- 🧪 Real-world scenario table for connection validation
+
+---
+
 ## 🛠️ Tech Stack
 
 ### ⚙️ Language / Backend
