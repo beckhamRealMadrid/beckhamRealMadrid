@@ -82,6 +82,16 @@
 
 ---
 
+### 🧠 [FSM](https://github.com/beckhamRealMadrid/FSM)
+> Finite State Machine system for game server AI with thread-safe state transitions.
+
+- 🔄 Trigger-based state transition system
+- 🧩 State object separation for maintainability
+- 🧵 RAII lock-based thread safety
+- ⚙️ Designed for scalable AI behavior control
+
+---
+
 ## 🛠️ Tech Stack
 
 ### ⚙️ Language / Backend
