@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for https://github.com/beckhamRealMadrid -->
 
-<h1 align="center">Building High-Performance Servers & Teams</h1>
+<h1 align="center">Building High-Performance Game Server Systems</h1>
 <p align="center"><i>Connecting systems, teams, and outcomes that scale</i></p>
 
 <p align="center">
@@ -22,10 +22,10 @@
 
 ## 🧩 About Me
 
-- 🎮 Former MMO game server developer turned tech-focused PM  
-- 🧠 Specialized in architecture design, traffic bottleneck analysis, process automation, and collaboration tooling  
-- 👨‍💻 Expert in IOCP, multithreaded programming, server frameworks, and DB operation optimization  
-- ✍️ Not just a coder — I lead cross-functional teams to build clean architecture and sustainable workflows
+- 🎮 MMO game server developer focused on system design and performance optimization  
+- 🧠 Specialized in IOCP, multithreaded architecture, and server-side scalability  
+- 👨‍💻 Experienced in designing and building high-performance backend systems  
+- ✍️ Focused on solving real-world bottlenecks and building maintainable server structures  
 - <img src="https://flagcdn.com/w40/kr.png" width="20" alt="South Korea Flag"> Based in South Korea | Global collaboration welcome
 
 ---
@@ -91,6 +91,17 @@
 - ⚙️ Designed for scalable AI behavior control
 
 ---
+
+## 🧩 System Perspective
+
+These projects are designed as components of a full game server architecture:
+
+- ServerFramework → Network layer and session handling (IOCP-based)
+- ThreadTimer → Time-based event scheduling system
+- DBDispatcher → Asynchronous DB processing pipeline
+- FSM → AI behavior control with thread-safe state transitions
+
+Each module is built to operate independently, but also designed to integrate into a scalable MMO server backend.
 
 ## 🛠️ Tech Stack
 
