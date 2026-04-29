@@ -168,6 +168,42 @@ Each module is built to operate independently, but also designed to integrate in
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+### 🎮 Game Server / Network
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FUDP-1E90FF?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket%20Programming-333333?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/IOCP-00599C?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/MMO%20Server-8A2BE2?style=for-the-badge&logo=serverfault&logoColor=white" />
+</p>
+
+---
+
+### 🧵 Concurrency / System
+<p>
+  <img src="https://img.shields.io/badge/Multithreading-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thread%20Pool-333333?style=for-the-badge&logo=stackshare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Async%20Processing-FF9900?style=for-the-badge&logo=asyncapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scheduling-6A5ACD?style=for-the-badge&logo=clockify&logoColor=white" />
+</p>
+
+---
+
+### 🏗️ Architecture / Optimization
+<p>
+  <img src="https://img.shields.io/badge/Server%20Architecture-2F4F4F?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Common%20Module%20Design-4682B4?style=for-the-badge&logo=blueprint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance%20Optimization-FF4500?style=for-the-badge&logo=speedtest&logoColor=white" />
+</p>
+
+---
+
+### 📌 Technical Production
+<p>
+  <img src="https://img.shields.io/badge/Requirement%20Analysis-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Technical%20Documentation-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Development%20Process%20Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
 ---
 
 ## 🤝 Contact Me
