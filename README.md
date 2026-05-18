@@ -35,12 +35,6 @@
 ### 🧭 [BattleServerRefactoring](https://github.com/beckhamRealMadrid/BattleServerRefactoring)
 > Battle server architecture refactoring report and migration roadmap for moving legacy client-side battle logic into a maintainable server-side structure.
 
-<p align="center">
-  <a href="https://github.com/beckhamRealMadrid/BattleServerRefactoring">
-    <img src="https://raw.githubusercontent.com/beckhamRealMadrid/BattleServerRefactoring/main/battle-server-flow.png" alt="Battle Server Refactoring Roadmap" />
-  </a>
-</p>
-
 - 🧱 Documents the overall battle server migration strategy
 - ⚙️ Connects ThreadTimer, DBDispatcher, FSM, and character refactoring into one architecture story
 - 🧵 Focused on reducing main-loop load, DB bottlenecks, AI migration risk, and hardcoded client logic
